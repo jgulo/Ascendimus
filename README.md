@@ -1,2 +1,2 @@
-# BusinessCommsApp
-LETS COME UP WITH a CATCHY NAME
+# Ascendimus
+Small workgroup collaboration tool with video conferencing and several features.
