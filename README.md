@@ -1,4 +1,5 @@
 # Ascendimus
-Small workgroup collaboration tool with video conferencing and several features.
-<br>
-[Live on the web here](https://frozen-mesa-66452.herokuapp.com/)
+
+### Small workgroup collaboration tool with video conferencing and several features.
+
+#### [Live on the web here](https://frozen-mesa-66452.herokuapp.com/)
